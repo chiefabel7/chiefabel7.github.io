@@ -2,7 +2,7 @@
 
 Hello GSU
 
-## Class i have take 
+## Class i have taken
 - Cs1301
 - Cs1302
 -
